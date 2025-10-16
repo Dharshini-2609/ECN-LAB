@@ -1,7 +1,8 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
 
 **AIM:**
-
+## NAME:P TEJASHWINI
+## REF NO:25018382
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
 
 **APPARATUS REQUIRED:**
@@ -24,6 +25,9 @@
 
 **CIRCUIT DIAGRAM:**
 
+![WhatsApp Image 2025-10-16 at 15 41 58_01aa2b37](https://github.com/user-attachments/assets/80b9bd88-3507-402b-968a-1440c7d66b2c)
+![WhatsApp Image 2025-10-16 at 15 41 59_65756b8b](https://github.com/user-attachments/assets/f0d7e394-930c-40bf-9c72-994ce6ed2dcd)
+![WhatsApp Image 2025-10-16 at 15 42 40_9498a21c](https://github.com/user-attachments/assets/f0fe169e-ef8b-45ad-99fe-e0846a3e5499)
 
 
 
