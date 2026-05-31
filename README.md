@@ -1,8 +1,8 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
 
 **AIM:**
-## NAME:P TEJASHWINI
-## REF NO:25018382
+## NAME:S DHARSHINI
+## REF NO:25011405
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
 
 **APPARATUS REQUIRED:**
